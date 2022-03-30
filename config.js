@@ -57,7 +57,7 @@ global.APIKeys = {
 
 global.namabot = 'R α s z Ᏼo͢Ꭲ✿'
 
-global.namaowner = 'LarasChann'
+global.namaowner = 'LαrαsChαnnXSanzy'
 
 global.myweb = 'https://youtube.com/c/SanzyYT'
 
@@ -68,7 +68,7 @@ global.owner = [ '6285759662798' ]
 global.premium = ['6285759662798']
 
 
-global.packname = 'LarasChann'
+global.packname = 'LαrαsChαnn'
 
 
 global.author = 'WhatsApp Bot'
